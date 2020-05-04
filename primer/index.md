@@ -14,7 +14,7 @@ Continent: Khorvaire
 Nation: Aundair
 Region: Askelios, Northeastern Aundair
 
-![Map of Eberron's Aundair and surrounding nations.]({{site.baseurl}}/img/eberron-relevant.png)
+![Map of Eberron's Aundair and surrounding nations.]({{ '/img/eberron-relevant.png' | url}})
 
 ### Eberron
 
@@ -52,11 +52,11 @@ Our adventure takes place in the Northeastern corner of Aundair, a nation on the
 
 We will join our party in the region around Askelios, an area still recovering from the ravages of war. The barony has three small hamlets that make up the town itself: Zenden, Dekkul, and Askelios. Last War veteran Baron Wester rules the barony from his manor in Askelios.
 
-![Map of Askelios Town.]({{site.baseurl}}/img/askelios-town.png)
+![Map of Askelios Town.]({{ '/img/askelios-town.png' | url}})
 
 To the North there is the sprawling untamed Whisper Wood. To the East, the Starpeak Mountains jut upwards abruptly; beyond the Starpeaks lies an area still teeming with the remains of an undead invastion from neighboring Karrnath. To the South, beyond the Aundair river rapids, the Trumpet Mountains form a neutral zone between Aundair and neighboring Thrane.
 
-![Map of Askelios Region.]({{site.baseurl}}/img/askelios-region.png)
+![Map of Askelios Region.]({{ '/img/askelios-region.png' | url}})
 
 #### Neutral Zone
 
