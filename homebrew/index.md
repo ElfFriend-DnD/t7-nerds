@@ -85,7 +85,6 @@ You are manifesting an echo of yourself based on an alternate timeline where you
 
 ___
 
-___
 
 ## Contraditions to RAW
 
@@ -111,7 +110,6 @@ Dragonborn Breath Weapon is a Bonus Action
 
 ___
 
-___
 
 ## Auxillary Rules
 
@@ -170,7 +168,6 @@ There are no really good ways RAW to get rid of exhaustion, but since these rule
 
 ___
 
-___
 
 ## Things I really don't care about
 
