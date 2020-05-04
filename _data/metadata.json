@@ -1,12 +1,12 @@
 {
-  "title": "Campaign Microsite",
-  "url": "https://akrigline.github.io/eleventy-dnd-microsite-template",
-  "description": "This is a template for a Homebrewery Styled D&D Microsite",
+  "title": "T7 Nerds",
+  "url": "https://elffriend-dnd.github.io/t7-nerds",
+  "description": "What do you get when a bunch of Healthcare Professionals play D&D?",
   "feed": {
     "subtitle": "A D&D Microsite for session logs, primers, etc.",
     "filename": "feed.xml",
     "path": "/feed.xml",
-    "id": "https://akrigline.github.io/eleventy-dnd-microsite-template"
+    "id": "https://elffriend-dnd.github.io/t7-nerds"
   },
   "author": {
     "name": "Andrew Krigline"
