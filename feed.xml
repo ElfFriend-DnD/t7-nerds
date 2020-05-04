@@ -5,7 +5,7 @@
 	
 	<link href="https://akrigline.github.io/eleventy-dnd-microsite-template/feed.xml" rel="self"/>
 	<link href="https://akrigline.github.io/eleventy-dnd-microsite-template"/>
-	<updated>2018-05-01T00:00:00-00:00</updated>
+	<updated>2020-04-30T00:00:00-00:00</updated>
 	<id>https://akrigline.github.io/eleventy-dnd-microsite-template</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -13,10 +13,10 @@
 	</author>
 	
 	<entry>
-		<title>Beginnings</title>
-		<link href="https://akrigline.github.io/eleventy-dnd-microsite-template/posts/firstpost/"/>
-		<updated>2018-05-01T00:00:00-00:00</updated>
-		<id>https://akrigline.github.io/eleventy-dnd-microsite-template/posts/firstpost/</id>
-		<content type="text">The first of many session logs.</content>
+		<title>Bandits at the Beginning</title>
+		<link href="https://akrigline.github.io/eleventy-dnd-microsite-template/posts/banditsAndBeginnings/"/>
+		<updated>2020-04-30T00:00:00-00:00</updated>
+		<id>https://akrigline.github.io/eleventy-dnd-microsite-template/posts/banditsAndBeginnings/</id>
+		<content type="text">Bandits attack the party on the way to Askelios.</content>
 	</entry>
 </feed>
