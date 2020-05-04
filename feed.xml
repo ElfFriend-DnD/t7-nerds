@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Campaign Microsite</title>
+	<title>T7 Nerds</title>
 	<subtitle>A D&amp;D Microsite for session logs, primers, etc.</subtitle>
 	
-	<link href="https://akrigline.github.io/eleventy-dnd-microsite-template/feed.xml" rel="self"/>
-	<link href="https://akrigline.github.io/eleventy-dnd-microsite-template"/>
+	<link href="https://elffriend-dnd.github.io/t7-nerds/feed.xml" rel="self"/>
+	<link href="https://elffriend-dnd.github.io/t7-nerds"/>
 	<updated>2020-04-30T00:00:00-00:00</updated>
-	<id>https://akrigline.github.io/eleventy-dnd-microsite-template</id>
+	<id>https://elffriend-dnd.github.io/t7-nerds</id>
 	<author>
 		<name>Andrew Krigline</name>
 		<email></email>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Bandits at the Beginning</title>
-		<link href="https://akrigline.github.io/eleventy-dnd-microsite-template/posts/banditsAndBeginnings/"/>
+		<link href="https://elffriend-dnd.github.io/t7-nerds/posts/banditsAndBeginnings/"/>
 		<updated>2020-04-30T00:00:00-00:00</updated>
-		<id>https://akrigline.github.io/eleventy-dnd-microsite-template/posts/banditsAndBeginnings/</id>
+		<id>https://elffriend-dnd.github.io/t7-nerds/posts/banditsAndBeginnings/</id>
 		<content type="text">Bandits attack the party on the way to Askelios.</content>
 	</entry>
 </feed>
