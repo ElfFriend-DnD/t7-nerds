@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/t7-nerds/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/t7-nerds"/>
-	<updated>2020-04-30T00:00:00-00:00</updated>
+	<updated>2020-05-07T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/t7-nerds</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -18,5 +18,13 @@
 		<updated>2020-04-30T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/t7-nerds/posts/banditsAndBeginnings/</id>
 		<content type="text">Bandits attack the party on the way to Askelios.</content>
+	</entry>
+	
+	<entry>
+		<title>Tracks to the Cave</title>
+		<link href="https://elffriend-dnd.github.io/t7-nerds/posts/tracksToTheCave/"/>
+		<updated>2020-05-07T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/t7-nerds/posts/tracksToTheCave/</id>
+		<content type="text">Following the trail, the party is attacked by more bandits, one of whom the party captures. They find the bandits&#39; hideout.</content>
 	</entry>
 </feed>
