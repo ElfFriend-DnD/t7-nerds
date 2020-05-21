@@ -7,6 +7,21 @@ eleventyNavigation:
   order: 2
 ---
 
+- [The World](#the-world)
+  - [Eberron](#eberron)
+  - [Khorvaire](#khorvaire)
+    - [Dragonmarked Houses](#dragonmarked-houses)
+  - [Aundair, Captial City: Fairhaven](#aundair-captial-city-fairhaven)
+  - [Askelios](#askelios)
+    - [Neutral Zone](#neutral-zone)
+- [The Adventure](#the-adventure)
+  - [Dragon of Icespire Peak, But in Eberron](#dragon-of-icespire-peak-but-in-eberron)
+  - [Contact: Baron Wester](#contact-baron-wester)
+    - [Task Overview](#task-overview)
+    - [Compensation](#compensation)
+    - [Assets](#assets)
+- [Notes on Progression](#notes-on-progression)
+
 ## The World
 
 Setting: Eberron
@@ -28,21 +43,21 @@ The continent of Khorvaire is recovering from The Last War, which ended four yea
 
 The balance of power in Khorvaire is split between the Nations and the Dragonmarked Houses. Each Dragonmarked house's members are blessed with magical power that allows them to excell at a certain skillset. These guilds effectively monopolize the skillset they excell at, and they operate without heed to the geopolitical borders or issues of the Nations according to the Edicts of Korth. Below is a summary of each Dragonmarked House's specialty:
 
-| Dragonmark  | House       | Race            | Guild Specialties                          |
-| ----------- | ----------- | --------------- | ------------------------------------------ |
-| Detection   | Medani      | Half-elf        | Bodyguards, investigation, risk management |
-| Finding     | Tharashk    | Human, half-orc | Bounty hunting, investigation, prospecting |
-| Handling    | Vadalis     | Human           | Animal training and breeding               |
-| Healing     | Jorasco     | Halfling        | Healing                                    |
-| Hospitality | Ghallanda   | Halfling        | Food, lodging, urban information           |
-| **Making**  | **Cannith** | **Human**       | **Manufacturing**                          |
-| Passage     | Orien       | Human           | Land transportation                        |
-| Scribing    | Sivis       | Gnome           | Communication, translation, verification   |
-| Sentinel    | Deneith     | Human           | Bodyguards, mercenaries                    |
-| Shadow      | Phiarlan    | Elf             | Entertainment, espionage                   |
-|             | Thuranni    | Elf             | Entertainment, assassination               |
-| Storm       | Lyrandar    | Half-elf        | Air and sea transportation                 |
-| Warding     | Kundarak    | Dwarf           | Banking, storage, prisons                  |
+| Dragonmark  | House     | Race            | Guild Specialties                          |
+| ----------- | --------- | --------------- | ------------------------------------------ |
+| Detection   | Medani    | Half-elf        | Bodyguards, investigation, risk management |
+| Finding     | Tharashk  | Human, half-orc | Bounty hunting, investigation, prospecting |
+| Handling    | Vadalis   | Human           | Animal training and breeding               |
+| Healing     | Jorasco   | Halfling        | Healing                                    |
+| Hospitality | Ghallanda | Halfling        | Food, lodging, urban information           |
+| Making      | Cannith   | Human           | Manufacturing                              |
+| Passage     | Orien     | Human           | Land transportation                        |
+| Scribing    | Sivis     | Gnome           | Communication, translation, verification   |
+| Sentinel    | Deneith   | Human           | Bodyguards, mercenaries                    |
+| Shadow      | Phiarlan  | Elf             | Entertainment, espionage                   |
+|             | Thuranni  | Elf             | Entertainment, assassination               |
+| Storm       | Lyrandar  | Half-elf        | Air and sea transportation                 |
+| Warding     | Kundarak  | Dwarf           | Banking, storage, prisons                  |
 
 ### Aundair, Captial City: Fairhaven
 
@@ -64,32 +79,26 @@ No resources within the Trumpet Mountains may be tapped according to the Treaty 
 
 ## The Adventure
 
-The party has spent the four days traveling from Fairhaven to Askelios escorting a wagonload of Cannith branded goods to be delivered to Barthen's Provisions in town. Gundren Rockseer set out on horseback when you left accompanied by Sildar Halwinter, an agent of the Queen. Gundren told you to meet him at Percival's Inn in Askelios after you deliver the items to Barthen's.
+### Dragon of Icespire Peak, But in Eberron
 
-Elmar Barthen has been told you are headed his way, and will pay you 10gp each when you deliver the wagonload safely to his shop.
+A White Dragon has been spotted in the Starpeaks acting decidedly un-dragon-like. Usually these intelligent creatures keep to themselves, most are devoted to the study of an ancient prophesy known as the Draconic Prophesy. Rarely do dragons cause trouble in Eberron. This white however has shown increasing signs of hostility and Baron Wester is growing anxious. He has hired Skellyfingers the Bard to sound the alarm on some of the more vulnerable outer settlements and attempt to gather useful items that may help get to the bottom of the issue at hand.
 
-### Patron: House Cannith
+### Contact: Baron Wester
 
-Each of you has been hired by House Cannith to be a freelance group working under the Rockseer brothers.
+Baron Wester runs the town's job board and will be the central point of contact for this campaign's quests.
 
-#### Task
+#### Task Overview
 
-> Aid the Rockseers in any way to facilitate the resumption of operations within the Lost Mine of Phandelver.
+> Help Baron Wester handle the fallout caused by the White Dragon's increasingly erratic behavior.
 
 #### Compensation
 
-House Cannith has authorized the Rockseers to compensate you on an individual base rate of `2gp * Character Level` per day of working directly on a job for them. This contract is good for 1 month for up to 300gp per person, after which point it can be renegotiated. Additionally, any items recovered not pertaining directly to the job at hand may be kept.
+Baron Wester has a gold reward attached to each individual task he gives the party. Additionally, any items recovered in the line of duty not pertaining directly to the job at hand may be kept.
 
 #### Assets
 
-- House Cannith branded goods can be purchased at a 10% discount from any authorized reseller.
-- Each of you has been provided with paperwork and identification denoting your employment by a Dragonmarked House.
-- If you need any house services, they can be purchased at the same 10% discount as goods.
+- Baron Wester's name carries weight in his barony, which encompasses the whole region.
 
-#### Contact: The Rockseer Brothers
+## Notes on Progression
 
-- Gundren
-- Nundro
-- Tharden
-
-The Rockseers are three dwarven brothers sent as surveyors and scouts to attempt to rediscover and resume operations at a Cannith Base lost towards the beginning of the Last War, some 70 years ago. Gundren Rockseer recently reported to House leadership that they are pretty sure they've found the lost base, but need help in exploring and clearing the place of any hostiles.
+Levelups will only happen in town. We're using milestone leveling, and the milestones are almost entirely going to be based around turning in quests.
