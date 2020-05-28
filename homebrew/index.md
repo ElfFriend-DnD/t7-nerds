@@ -20,6 +20,14 @@ The core mechanics of 5e are solid, but I greatly enjoy breaking 5e in a lot of 
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Crafting and Gear](#crafting-and-gear)
+  - [Buying Magic Items](#buying-magic-items)
+    - [House Resellers](#house-resellers)
+  - [Potionmaking](#potionmaking)
+    - [Ingredients](#ingredients)
+    - [Crafting](#crafting)
+- [Party Reputation](#party-reputation)
+  - [Affecting Reputation](#affecting-reputation)
 - [Character Creation and Levelup](#character-creation-and-levelup)
   - [Ability Scores](#ability-scores)
     - [Racial bonuses](#racial-bonuses)
@@ -44,6 +52,62 @@ The core mechanics of 5e are solid, but I greatly enjoy breaking 5e in a lot of 
   - [Hands](#hands)
   - [Bookkeeping](#bookkeeping)
   - [Sleeping in Armor](#sleeping-in-armor)
+
+___
+
+## Crafting and Gear
+
+### Buying Magic Items
+
+The world of Eberron is built on the idea that small magic is common, and magic items enhance the lives of many common folk. As such, we'll use the [Discerning Merchant's Price Guide](https://www.dmsguild.com/product/205126/Discerning-Merchants-Price-Guide) for pricing out magic items and potions. Any crafting mechanics that depend on the gold cost of a magic item will use the DMPG price.
+
+#### House Resellers
+
+Several Dragonmarked Houses of Eberron focus on the production and sale of magical items. If an establishment is an authorized reseller of a certain house's goods, you can be certain that those goods have a consistent quality.
+
+| House | Products |
+|:---:|:---:|
+| Jorasco | Healing |
+| Cannith | Generic Adventuring Gear, Common and Uncommon magic items |
+| Ghallanda | Supplies and Hospitality |
+| Orien | Land Transportation |
+| Lyrandar | Air and Sea Transportation |
+| Kundarak | Secure Storage |
+| Sivis | Communication & Recording |
+
+### Potionmaking
+
+This is a mashup of a few systems I've found to codify how we will handle Herbalism and Alchemy. We will by and large be following the rules for Tool Proficiencies as laid out in [Xanathar's Guide to Everything](https://www.dndbeyond.com/sources/xgte/dungeon-masters-tools#ToolProficiencies). Their [Crafting Rules](https://www.dndbeyond.com/sources/xgte/downtime-revisited#CraftinganItem) also inspired this, though the idea that it takes months to brew a potion is a bit much, so we're expediting that part.
+
+#### Ingredients
+
+We will track "Ingredients" by their gold value rather than specifics. You can buy ingredients in any well-stocked herbalist or alchemist shop, as well as in any House Jorasco authorized reseller.
+
+While traveling you may make an Herbalism Kit (Wisdom) check to attempt to gather ingredients. The DC of this check varies based on the environment you are traveling through based on the Foraging DC of the area:
+
+| Flora and Fauna | DC |
+|:---:|:---:|
+| Abundant | 10 |
+| Limited | 15 |
+| Scarce | 20 |
+
+On a failure no usable ingredients are found. On a success, result of the check is the gold value of ingredients gathered. On a Natural 20, roll the d20 again and add that to the total value of ingredients found.
+
+#### Crafting
+
+As part of a long rest, you may craft one potion from the PHB or DMG by subtracting half of its gold value (we'll use the Discerning Merchant's Price Guide for this) from your ingredients stash. In order to create a potion or substance with a rarity higher than Common, both an Herbalism Kit and Alchemist's Supplies are required.
+
+___
+
+## Party Reputation
+
+As your group does acts of greatness, kindess, or hostility, their reputation will grow in the region. This reputation will affect the baseline attitude with which any NPC treats your group.
+
+### Affecting Reputation
+
+Performances depicting or describing the party's alleged deeds can affect the party reknown in substantial ways.
+
+___
 
 ## Character Creation and Levelup
 
