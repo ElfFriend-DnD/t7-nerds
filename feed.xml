@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/t7-nerds/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/t7-nerds"/>
-	<updated>2020-06-02T00:00:00-00:00</updated>
+	<updated>2020-06-09T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/t7-nerds</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -34,5 +34,13 @@
 		<updated>2020-06-02T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/t7-nerds/posts/termiteProblem/</id>
 		<content type="text">The party met Falcon the Hunter as he was about to rush a wounded man to Adabra. He told them to go to the nearby woodcutter&#39;s camp and deal with a potential threat there. Upon arrival, the party found several huge insectoid creatures lurking below the ground.</content>
+	</entry>
+	
+	<entry>
+		<title>Off to the Barrow</title>
+		<link href="https://elffriend-dnd.github.io/t7-nerds/posts/toTheBarrow/"/>
+		<updated>2020-06-09T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/t7-nerds/posts/toTheBarrow/</id>
+		<content type="text">After cleaning up the remaining Ankhegs at the Woodcutter&#39;s Camp, the party trekked northeast to the dragon barrow in search of useful tools.</content>
 	</entry>
 </feed>
