@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/t7-nerds/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/t7-nerds"/>
-	<updated>2020-06-17T00:00:00-00:00</updated>
+	<updated>2020-06-23T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/t7-nerds</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -50,5 +50,13 @@
 		<updated>2020-06-17T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/t7-nerds/posts/dragonBarrow/</id>
 		<content type="text">Our party forged ahead down into the barrow, and ended up finding a lot of kobolds looking for something. Bloodshed ensued.</content>
+	</entry>
+	
+	<entry>
+		<title>Riddles and Bones</title>
+		<link href="https://elffriend-dnd.github.io/t7-nerds/posts/riddlesBones/"/>
+		<updated>2020-06-23T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/t7-nerds/posts/riddlesBones/</id>
+		<content type="text">After the fighting, the party set about the business of investigting the barrow. Searching for anything that might help them &quot;Kill a Dragon,&quot; Odious&#39; studies of the Draconic Prophesy gave him a clue as to what they might find.</content>
 	</entry>
 </feed>
