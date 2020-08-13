@@ -5,7 +5,7 @@
 	
 	<link href="https://elffriend-dnd.github.io/t7-nerds/feed.xml" rel="self"/>
 	<link href="https://elffriend-dnd.github.io/t7-nerds"/>
-	<updated>2020-06-23T00:00:00-00:00</updated>
+	<updated>2020-07-14T00:00:00-00:00</updated>
 	<id>https://elffriend-dnd.github.io/t7-nerds</id>
 	<author>
 		<name>Andrew Krigline</name>
@@ -58,5 +58,21 @@
 		<updated>2020-06-23T00:00:00-00:00</updated>
 		<id>https://elffriend-dnd.github.io/t7-nerds/posts/riddlesBones/</id>
 		<content type="text">After the fighting, the party set about the business of investigting the barrow. Searching for anything that might help them &quot;Kill a Dragon,&quot; Odious&#39; studies of the Draconic Prophesy gave him a clue as to what they might find.</content>
+	</entry>
+	
+	<entry>
+		<title>Mercenaries at Sunset</title>
+		<link href="https://elffriend-dnd.github.io/t7-nerds/posts/mercsAndFarmsteads/"/>
+		<updated>2020-06-30T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/t7-nerds/posts/mercsAndFarmsteads/</id>
+		<content type="text">A few days east along the trail the party found Alfonz&#39;s Ranch taken over by hostile mercenaries, which were dealt with.</content>
+	</entry>
+	
+	<entry>
+		<title>To Conyberry</title>
+		<link href="https://elffriend-dnd.github.io/t7-nerds/posts/toConyberry/"/>
+		<updated>2020-07-14T00:00:00-00:00</updated>
+		<id>https://elffriend-dnd.github.io/t7-nerds/posts/toConyberry/</id>
+		<content type="text">Having saved Alfonz, Odious urged the party to make a quick stop at a library nearby the ruined town of Conyberry.</content>
 	</entry>
 </feed>
